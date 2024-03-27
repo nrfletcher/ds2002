@@ -64,4 +64,3 @@ select language.name, avg(film.length) as duration
 	from film
   join language on film.language_id = language.language_id
   group by language.name;
-
