@@ -1,8 +1,4 @@
-##
+## Data Science ETL Project
 
-Data Science ETL Project
-
-###
-
-Focus: Cars
+### Focus: Cars
 
