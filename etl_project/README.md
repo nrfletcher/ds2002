@@ -1,4 +1,6 @@
-## Data Science ETL Project
+# Data Science ETL Project
+- Riley Fletcher
 
-### Focus: Cars
+## Notes
 
+The .env folder is included in the .gitignore, which contains API keys. To use this project you will need your own API key.
